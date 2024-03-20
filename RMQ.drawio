@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-03-20T11:20:25.024Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="-ClVOPMNQbU925irDQJF" version="22.1.20" type="github">
+<mxfile host="app.diagrams.net" modified="2024-03-20T11:21:09.706Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sumavLTpmkTm-p-ERDIp" version="22.1.20" type="github">
   <diagram name="第 1 页" id="2XR303NfXYFgoQkDeR8G">
     <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -37,7 +37,7 @@
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-20" value="NameServer" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="619" y="135" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="UYfxn2uQiFY9sQeeJO1W-24" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UYfxn2uQiFY9sQeeJO1W-24" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="309" y="232" width="360" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UYfxn2uQiFY9sQeeJO1W-27" target="UYfxn2uQiFY9sQeeJO1W-28">
@@ -67,7 +67,7 @@
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-34" value="broker集群1" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="232" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYfxn2uQiFY9sQeeJO1W-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UYfxn2uQiFY9sQeeJO1W-35" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="309" y="400" width="360" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UYfxn2uQiFY9sQeeJO1W-37" target="UYfxn2uQiFY9sQeeJO1W-38">
@@ -91,7 +91,7 @@
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-42" value="broker集群2" style="text;html=1;strokeColor=#d6b656;fillColor=#fff2cc;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="310" y="400" width="76" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="UYfxn2uQiFY9sQeeJO1W-43" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="UYfxn2uQiFY9sQeeJO1W-43" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="309" y="570" width="360" height="148" as="geometry" />
         </mxCell>
         <mxCell id="UYfxn2uQiFY9sQeeJO1W-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="UYfxn2uQiFY9sQeeJO1W-45" target="UYfxn2uQiFY9sQeeJO1W-46">
