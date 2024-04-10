@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-04-10T06:15:22.350Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="0R-mji1NQy2MON6MM6Ly" version="24.0.7" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-10T06:16:36.883Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4_XYGCph8tgOcTTIvzy1" version="24.0.7" type="github">
   <diagram name="第 1 页" id="2XR303NfXYFgoQkDeR8G">
-    <mxGraphModel dx="2620" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2420" dy="1951" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -370,7 +370,7 @@
         <mxCell id="_uqq0Gr17QkH30L-0Scp-111" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;&lt;br&gt;&lt;/h1&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="843" y="-175" width="180" height="120" as="geometry" />
         </mxCell>
-        <mxCell id="_uqq0Gr17QkH30L-0Scp-112" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;提供安装插件功能接口&lt;/li&gt;&lt;li&gt;提供路由策略下发缓存或持久化接口&lt;/li&gt;&lt;li&gt;提供插件查看接口(插件名称，版本，描述等)&lt;/li&gt;&lt;li&gt;定期从console服务获取插件或路由策略做兜底&lt;/li&gt;&lt;li&gt;从CMDB获取发送和消费客户端链接信息并缓存&lt;/li&gt;&lt;li&gt;外部接口交互做好故障容错和兜底策略&lt;/li&gt;&lt;li&gt;插件加载、运行和缓存管理&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="_uqq0Gr17QkH30L-0Scp-112" value="&lt;ol style=&quot;font-size: 14px;&quot;&gt;&lt;li&gt;提供安装插件功能接口&lt;/li&gt;&lt;li&gt;提供路由策略下发、执行缓存或持久化接口&lt;/li&gt;&lt;li&gt;提供插件查看接口(插件名称，版本，描述等)&lt;/li&gt;&lt;li&gt;定期从console服务获取插件或路由策略做兜底&lt;/li&gt;&lt;li&gt;从CMDB获取发送和消费客户端链接信息并缓存&lt;/li&gt;&lt;li&gt;外部接口交互做好故障容错和兜底策略&lt;/li&gt;&lt;li&gt;插件加载、运行和缓存管理&lt;/li&gt;&lt;/ol&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="823" y="-185" width="353" height="115" as="geometry" />
         </mxCell>
       </root>
