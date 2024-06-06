@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-06T06:14:06.626Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="nAFNnyYBEm1KrVdwbV_p" version="24.4.14" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-06T06:28:02.347Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hen7-lU2W6O19ETydecL" version="24.4.14" type="github">
   <diagram name="第 1 页" id="2XR303NfXYFgoQkDeR8G">
-    <mxGraphModel dx="2876" dy="2256" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2336" dy="1906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -256,7 +256,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uqq0Gr17QkH30L-0Scp-76" value="获取Topic所在Broker路由信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-72" vertex="1" connectable="0">
+        <mxCell id="_uqq0Gr17QkH30L-0Scp-76" value="获取Topic所在Broker所有路由信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-72" vertex="1" connectable="0">
           <mxGeometry x="-0.1446" y="3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -270,7 +270,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uqq0Gr17QkH30L-0Scp-75" value="Send Message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-74" vertex="1" connectable="0">
+        <mxCell id="_uqq0Gr17QkH30L-0Scp-75" value="优先选择本机房Broker Send Message&lt;br&gt;当前机房所有Broker失败重试其它机房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-74" vertex="1" connectable="0">
           <mxGeometry x="-0.0093" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -323,7 +323,7 @@
             <mxPoint x="1000" y="210" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uqq0Gr17QkH30L-0Scp-93" value="获取Topic所在Broker路由信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-91" vertex="1" connectable="0">
+        <mxCell id="_uqq0Gr17QkH30L-0Scp-93" value="获取Topic所在Broker所有路由信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-91" vertex="1" connectable="0">
           <mxGeometry x="-0.2099" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
