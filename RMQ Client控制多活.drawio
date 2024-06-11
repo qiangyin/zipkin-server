@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-11T06:14:22.536Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="13X2DCrRdgPhs9uF1inM" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-11T06:18:09.386Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Ik3pRqorIZy6Xz_Y5TqO" version="24.5.2" type="github">
   <diagram name="第 1 页" id="2XR303NfXYFgoQkDeR8G">
     <mxGraphModel dx="2261" dy="1869" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -330,7 +330,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_uqq0Gr17QkH30L-0Scp-95" value="Receive Message" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-94" vertex="1" connectable="0">
+        <mxCell id="_uqq0Gr17QkH30L-0Scp-95" value="优先选择本机房Broker Receive Message&lt;br&gt;需要判断其它机房是否有消费者&lt;br&gt;没有则需要消费其它机房" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="_uqq0Gr17QkH30L-0Scp-94" vertex="1" connectable="0">
           <mxGeometry x="-0.036" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
