@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-12T00:49:40.713Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="jSfmOYa6F2uB1T1d_kLw" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-12T01:32:49.863Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="1cFX3OKaSiI4UVeosgmK" version="24.5.2" type="github">
   <diagram name="第 1 页" id="2XR303NfXYFgoQkDeR8G">
     <mxGraphModel dx="2420" dy="1947" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -354,7 +354,7 @@
         <mxCell id="PbEKLyiNOmeTdzCmRt0G-2" value="Producer改动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#159108;" parent="1" vertex="1">
           <mxGeometry x="-340" y="512" width="80" height="28" as="geometry" />
         </mxCell>
-        <mxCell id="PbEKLyiNOmeTdzCmRt0G-4" value="&lt;ol&gt;&lt;li&gt;新增AllocateMachineRoomNearby4OPPO继承AbstractAllocateMessageQueueStrategy&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;根据broker的Name idcCode进行过滤&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/li&gt;&lt;li&gt;&lt;pre style=&quot;&quot;&gt;每次rebalance需要判断其它机房是否有消费者，没有则需要消费&lt;br&gt;其它机房&lt;/pre&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
+        <mxCell id="PbEKLyiNOmeTdzCmRt0G-4" value="&lt;ol&gt;&lt;li&gt;新增AllocateMachineRoomNearby4OPPO继承AbstractAllocateMessageQueueStrategy&lt;br&gt;&amp;nbsp;&lt;br&gt;&lt;/li&gt;&lt;li&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;根据broker的Name idcCode进行过滤&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/li&gt;&lt;li&gt;&lt;pre style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;&lt;span style=&quot;white-space: normal;&quot;&gt;clientId添加idcCode用于group过滤&lt;/span&gt;&lt;/font&gt;&lt;/pre&gt;&lt;/li&gt;&lt;li&gt;&lt;pre style=&quot;&quot;&gt;每次rebalance需要判断其它机房是否有消费者，没有则需要消费&lt;br&gt;其它机房&lt;/pre&gt;&lt;/li&gt;&lt;/ol&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;align=left;fillColor=#f0a30a;fontColor=#000000;strokeColor=#BD7000;" parent="1" vertex="1">
           <mxGeometry x="780" y="489" width="430" height="271" as="geometry" />
         </mxCell>
         <mxCell id="PbEKLyiNOmeTdzCmRt0G-5" value="Consumer改动" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#159108;" parent="1" vertex="1">
