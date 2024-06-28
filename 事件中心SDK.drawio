@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-28T09:42:31.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="FfaZiPn9Bs4WPgMf6PTw" version="24.6.3" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T09:45:14.580Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="iUNB4SOmSZr5QCyMmExU" version="24.6.3" type="github">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
     <mxGraphModel dx="1366" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -7,13 +7,13 @@
         <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="60" y="120" width="730" height="450" as="geometry" />
         </mxCell>
-        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-2" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-2" value="&lt;font color=&quot;#ffffff&quot;&gt;Event&lt;br&gt;Source&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="222" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-3" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-3" value="&lt;font color=&quot;#ffffff&quot;&gt;Event&lt;br&gt;Source&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="320" width="70" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-4" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-4" value="&lt;font color=&quot;#ffffff&quot;&gt;Event&lt;br&gt;Source&lt;/font&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;strokeColor=#FFFFFF;" vertex="1" parent="1">
           <mxGeometry x="80" y="420" width="70" height="60" as="geometry" />
         </mxCell>
         <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-5" value="事件总线" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#00CC00;strokeColor=#33FF99;" vertex="1" parent="1">
@@ -81,6 +81,14 @@
         </mxCell>
         <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-27" value="&lt;font color=&quot;#2c649f&quot;&gt;&lt;b&gt;Filter&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="420" y="245" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.024;entryY=0.471;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;" edge="1" parent="1" source="rc6Dz1Jl7MFZrK2ma3XP-2" target="rc6Dz1Jl7MFZrK2ma3XP-21">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="170" y="252" />
+              <mxPoint x="170" y="346" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
