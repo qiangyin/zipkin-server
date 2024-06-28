@@ -1,9 +1,66 @@
-<mxfile host="app.diagrams.net" modified="2024-06-25T09:21:59.308Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.6.2" etag="8b39odARzi2QIxE20LEQ" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-28T09:35:53.886Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="4b3_EA0mDpLEq4QN9Oh0" version="24.6.3" type="github">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
-    <mxGraphModel>
+    <mxGraphModel dx="1366" dy="668" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="730" height="450" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-2" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="80" y="232" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-3" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="80" y="330" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-4" value="Event&lt;br&gt;Source" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;fillColor=#EA6B66;" vertex="1" parent="1">
+          <mxGeometry x="80" y="420" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-5" value="事件总线" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#00CC00;strokeColor=#33FF99;" vertex="1" parent="1">
+          <mxGeometry x="430" y="330" width="120" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-6" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#2C649F;" vertex="1" parent="1">
+          <mxGeometry x="190" y="144" width="180" height="166" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-7" value="&lt;font color=&quot;#ffffff&quot;&gt;红绿灯事件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="200" y="194" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-8" value="&lt;font color=&quot;#ffffff&quot;&gt;违章&lt;br&gt;事件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="194" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-9" value="&lt;font color=&quot;#ffffff&quot;&gt;违章&lt;br&gt;事件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="310" y="194" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-10" value="&lt;font color=&quot;#ffffff&quot;&gt;天气&lt;br&gt;事件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="201" y="247" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-11" value="&lt;font color=&quot;#ffffff&quot;&gt;路况&lt;br&gt;事件&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="258.5" y="247" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-12" value="&lt;font color=&quot;#ffffff&quot;&gt;...&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="311" y="247" width="45" height="45" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-13" value="事件中心&lt;br&gt;（Source+Type)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="253" y="154" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;strokeColor=#2C649F;" vertex="1" parent="1">
+          <mxGeometry x="190" y="390" width="180" height="170" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-15" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;违章事件&lt;br&gt;Schema&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;lt;JSON&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;align=center;size=9;fillColor=#62649F;" vertex="1" parent="1">
+          <mxGeometry x="200" y="441" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-16" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;汽车事件&lt;br&gt;Schema&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;lt;JSON&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;align=center;size=9;fillColor=#62649F;" vertex="1" parent="1">
+          <mxGeometry x="285" y="441" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-17" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;天气事件&lt;br&gt;Schema&lt;/font&gt;&lt;div&gt;&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 9px;&quot;&gt;&amp;lt;OpenAPI&amp;gt;&lt;/font&gt;&lt;/div&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;align=center;size=9;fillColor=#62649F;" vertex="1" parent="1">
+          <mxGeometry x="201" y="501" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-18" value="&lt;font size=&quot;1&quot; color=&quot;#ffffff&quot;&gt;...&lt;/font&gt;" style="shape=note;whiteSpace=wrap;html=1;backgroundOutline=1;darkOpacity=0.05;direction=south;align=center;size=9;fillColor=#62649F;" vertex="1" parent="1">
+          <mxGeometry x="285" y="501" width="70" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="rc6Dz1Jl7MFZrK2ma3XP-19" value="事件格式&lt;br&gt;(Schema)" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="251" y="400" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
