@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T11:47:24.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="48ETfxBYDD5uQVFjNeZO" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T11:49:56.391Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="Nc86RRqAR9oAA6HGE9iB" version="24.6.4" type="github">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
     <mxGraphModel dx="3292" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -421,6 +421,15 @@
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-146" value="&lt;font color=&quot;#ffffff&quot;&gt;业务API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62649F;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="791" y="499" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-147" value="规则管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="787.75" y="-72" width="101.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-148" value="总线管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="-72" width="101.25" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-149" value="事件源管理" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183.88" y="-72" width="101.25" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
