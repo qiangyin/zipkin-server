@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-01T11:44:49.046Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="StJVwtySV5RYH6bry2n3" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-01T11:47:24.411Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="48ETfxBYDD5uQVFjNeZO" version="24.6.4" type="github">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
     <mxGraphModel dx="3292" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -8,7 +8,7 @@
           <mxGeometry x="669" y="301" width="640" height="330" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-108" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#2C649F;" vertex="1" parent="1">
-          <mxGeometry x="790" y="392" width="490" height="148" as="geometry" />
+          <mxGeometry x="761" y="369" width="480" height="94" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-106" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;strokeColor=#2C649F;startArrow=classic;startFill=1;" edge="1" parent="1" source="ZmQ37UOVx20-6n8LeS6r-85" target="ZmQ37UOVx20-6n8LeS6r-99">
           <mxGeometry relative="1" as="geometry">
@@ -364,13 +364,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-100" value="&lt;font color=&quot;#ffffff&quot;&gt;订阅SDK&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#62649F;strokeColor=#9673a6;" vertex="1" parent="1">
-          <mxGeometry x="1202" y="452" width="60" height="30" as="geometry" />
+          <mxGeometry x="1163" y="401" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-107" value="&lt;font color=&quot;#ffffff&quot;&gt;订阅方&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#62649F;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="669" y="301" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-109" value="&lt;font color=&quot;#ffffff&quot;&gt;业务实现方法实现&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62649F;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="830" y="437" width="300" height="60" as="geometry" />
+          <mxGeometry x="791" y="386" width="300" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-111" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#2C649F;" vertex="1" parent="1">
           <mxGeometry x="80" y="370" width="480" height="90" as="geometry" />
@@ -409,6 +409,18 @@
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-130" value="&lt;font color=&quot;#ffffff&quot;&gt;MySQL/Redis&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62649F;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
           <mxGeometry x="226" y="495" width="301" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-143" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;strokeColor=#2C649F;" vertex="1" parent="1">
+          <mxGeometry x="761" y="482" width="480" height="94" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-144" value="" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;strokeColor=#2C649F;" edge="1" parent="1" source="ZmQ37UOVx20-6n8LeS6r-145" target="ZmQ37UOVx20-6n8LeS6r-146">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-145" value="&lt;font color=&quot;#ffffff&quot;&gt;SLB&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#62649F;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="1163" y="514" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZmQ37UOVx20-6n8LeS6r-146" value="&lt;font color=&quot;#ffffff&quot;&gt;业务API&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#62649F;strokeColor=#9673a6;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="791" y="499" width="300" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
