@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-07-02T01:23:56.782Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="sYQ6hP_WtTPTQU8-yYAa" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" modified="2024-07-02T01:25:11.520Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="waSi0CosQX66xotR2xae" version="24.6.4" type="github">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
     <mxGraphModel dx="3217" dy="2337" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -474,10 +474,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="9U1nNFspsidCMqpqZjFe-10" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;复用总线MQ集群&lt;br&gt;固定Topic&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#00CC00;strokeColor=#FFFFFF;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="-287" width="120" height="60" as="geometry" />
+          <mxGeometry x="560" y="-287" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9U1nNFspsidCMqpqZjFe-17" value="&lt;font color=&quot;#ffffff&quot;&gt;事件存储&lt;/font&gt;" style="shape=datastore;whiteSpace=wrap;html=1;fillColor=#9E4846;strokeColor=#FFFFFF;" vertex="1" parent="1">
-          <mxGeometry x="573" y="-170" width="100" height="60" as="geometry" />
+          <mxGeometry x="570" y="-170" width="100" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
