@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-07-03T01:30:50.404Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="RHMXrmL6shhDFC3g47i2" version="24.6.4" type="github">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="ugFTTOm9MIeQB7kWlNW_">
-    <mxGraphModel dx="2261" dy="1930" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2739" dy="2184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -337,16 +337,16 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-74" value="&lt;font color=&quot;#ffffff&quot;&gt;事件源&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="90" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="34" y="29" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-75" value="&lt;font color=&quot;#ffffff&quot;&gt;事件总线&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="291" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="319.5" y="29" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-76" value="&lt;font color=&quot;#ffffff&quot;&gt;事件规则&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="520" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="746" y="29" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-77" value="&lt;font color=&quot;#ffffff&quot;&gt;事件目标&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="737.5" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="460" y="29" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-78" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -358,7 +358,7 @@
           <mxGeometry x="10" y="-16" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-83" value="&lt;font color=&quot;#ffffff&quot;&gt;事件可观测&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="1120" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="889" y="29" width="110" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ZmQ37UOVx20-6n8LeS6r-88" value="&lt;font color=&quot;#ffffff&quot;&gt;数据面&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#62649F;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="11" y="-650" width="60" height="30" as="geometry" />
@@ -480,7 +480,16 @@
           <mxGeometry x="570" y="-170" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iX2ODuhlLIFTZD0lGzSY-1" value="&lt;font color=&quot;#ffffff&quot;&gt;AK/SK&amp;amp;心跳服务&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" parent="1" vertex="1">
-          <mxGeometry x="929.9999999999999" y="29" width="110" height="60" as="geometry" />
+          <mxGeometry x="600.9999999999999" y="29" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLnxOM_usAq-7mu6ysYa-1" value="&lt;font color=&quot;#ffffff&quot;&gt;事件格式&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="178.5" y="29" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLnxOM_usAq-7mu6ysYa-2" value="&lt;font color=&quot;#ffffff&quot;&gt;多连接器&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="29" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="SLnxOM_usAq-7mu6ysYa-3" value="&lt;font color=&quot;#ffffff&quot;&gt;事件流&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#2C649F;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="1172" y="29" width="110" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
