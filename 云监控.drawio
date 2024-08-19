@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" version="24.7.7">
   <diagram name="第 1 页" id="2kuI5vqeoujSwtPeEiwz">
-    <mxGraphModel dx="954" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
+    <mxGraphModel dx="909" dy="502" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -30,19 +30,19 @@
         <mxCell id="egfz6zBa7lYmq5XDyndJ-17" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#FF0000;" parent="1" vertex="1">
           <mxGeometry x="538" y="145" width="130" height="111.43" as="geometry" />
         </mxCell>
-        <mxCell id="egfz6zBa7lYmq5XDyndJ-18" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;中间件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="egfz6zBa7lYmq5XDyndJ-18" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;中间件&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="573" y="185.70999999999998" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="egfz6zBa7lYmq5XDyndJ-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#00CC00;" parent="1" vertex="1">
           <mxGeometry x="560" y="502" width="130" height="111.43" as="geometry" />
         </mxCell>
-        <mxCell id="egfz6zBa7lYmq5XDyndJ-20" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;数据库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="egfz6zBa7lYmq5XDyndJ-20" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;数据库&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="595" y="537" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="egfz6zBa7lYmq5XDyndJ-22" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#FFE599;" parent="1" vertex="1">
           <mxGeometry x="89" y="340" width="130" height="111.43" as="geometry" />
         </mxCell>
-        <mxCell id="egfz6zBa7lYmq5XDyndJ-23" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;业务应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+        <mxCell id="egfz6zBa7lYmq5XDyndJ-23" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 18px;&quot;&gt;业务应用&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="116.5" y="376" width="75" height="30" as="geometry" />
         </mxCell>
         <mxCell id="egfz6zBa7lYmq5XDyndJ-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;dashed=1;strokeColor=#FF0000;" parent="1" source="egfz6zBa7lYmq5XDyndJ-3" target="egfz6zBa7lYmq5XDyndJ-17" edge="1">
