@@ -5,25 +5,25 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="aNDTQHg4Lhy--wUedkut-1" value="" style="rounded=0;whiteSpace=wrap;html=1;gradientColor=none;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="88" y="258.67" width="728" height="242.33" as="geometry" />
+          <mxGeometry x="82" y="258" width="728" height="242.33" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=#FFFFFF;dashed=1;" parent="1" source="nMclyF_xI6lpTPqhvQNZ-4" target="nMclyF_xI6lpTPqhvQNZ-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-4" value="&lt;font style=&quot;font-size: 14px;&quot; color=&quot;#ffffff&quot;&gt;云调度&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#A680B8;" parent="1" vertex="1">
-          <mxGeometry x="200" y="352" width="120" height="60" as="geometry" />
+          <mxGeometry x="156" y="352" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-10" value="&lt;font color=&quot;#ffffff&quot; style=&quot;font-size: 14px;&quot;&gt;MQ&lt;/font&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;direction=south;fillColor=#9E4846;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="372" y="354.71000000000004" width="103" height="54.57" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-18" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0;dx=30;notch=30;direction=west;rotation=1;fillColor=#FFFFFF;strokeColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="574" y="328" width="41.12" height="108.89" as="geometry" />
+          <mxGeometry x="603" y="328" width="41.12" height="108.89" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-19" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#00CC00;" parent="1" vertex="1">
-          <mxGeometry x="599" y="328.4599999999999" width="130" height="111.43" as="geometry" />
+          <mxGeometry x="628" y="328.4599999999999" width="130" height="111.43" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;安全网关&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="630" y="367.43999999999994" width="77" height="30" as="geometry" />
+          <mxGeometry x="659" y="367.43999999999994" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nMclyF_xI6lpTPqhvQNZ-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;curved=1;startArrow=classic;startFill=1;dashed=1;strokeColor=#FFFFFF;" parent="1" source="nMclyF_xI6lpTPqhvQNZ-10" target="nMclyF_xI6lpTPqhvQNZ-18" edge="1">
           <mxGeometry relative="1" as="geometry">
