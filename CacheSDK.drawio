@@ -50,10 +50,10 @@
         <mxCell id="RNi2GJTvqtdYTUZvZrPk-2" value="Redis 发布/订阅事件通知" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="931" y="142" width="71.62" height="60.16" as="geometry" />
         </mxCell>
-        <mxCell id="RNi2GJTvqtdYTUZvZrPk-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="RNi2GJTvqtdYTUZvZrPk-18" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="729.34" y="131.84" width="102.32" height="87.71" as="geometry" />
         </mxCell>
-        <mxCell id="RNi2GJTvqtdYTUZvZrPk-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;服务实例&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RNi2GJTvqtdYTUZvZrPk-19" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;服务实例&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FFE599;" vertex="1" parent="1">
           <mxGeometry x="742" y="160.69999999999993" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RNi2GJTvqtdYTUZvZrPk-20" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;服务实例&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
@@ -100,10 +100,10 @@
         <mxCell id="RNi2GJTvqtdYTUZvZrPk-30" value="二级缓存Redis" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/Cache_Redis_Product.svg;" vertex="1" parent="1">
           <mxGeometry x="532" y="144.83999999999997" width="71.62" height="60.16" as="geometry" />
         </mxCell>
-        <mxCell id="RNi2GJTvqtdYTUZvZrPk-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#00CC00;" vertex="1" parent="1">
+        <mxCell id="RNi2GJTvqtdYTUZvZrPk-31" value="" style="verticalLabelPosition=bottom;verticalAlign=top;html=1;shape=hexagon;perimeter=hexagonPerimeter2;arcSize=6;size=0.27;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="733" y="-44" width="102.32" height="87.71" as="geometry" />
         </mxCell>
-        <mxCell id="RNi2GJTvqtdYTUZvZrPk-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;服务实例&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="RNi2GJTvqtdYTUZvZrPk-32" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;&lt;font color=&quot;#ffffff&quot;&gt;服务实例&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#FF3333;" vertex="1" parent="1">
           <mxGeometry x="745.66" y="-15.140000000000072" width="77" height="30" as="geometry" />
         </mxCell>
         <mxCell id="RNi2GJTvqtdYTUZvZrPk-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.513;entryY=-0.037;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=#FFFFFF;dashed=1;endArrow=none;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="RNi2GJTvqtdYTUZvZrPk-31" target="RNi2GJTvqtdYTUZvZrPk-2">
