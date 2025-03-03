@@ -24,9 +24,9 @@
         <mxCell id="4lDjWUcHd0E4nZpBsMBI-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="4lDjWUcHd0E4nZpBsMBI-5" target="4lDjWUcHd0E4nZpBsMBI-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="4lDjWUcHd0E4nZpBsMBI-22" value="账户策略更新" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4lDjWUcHd0E4nZpBsMBI-14">
+        <mxCell id="4lDjWUcHd0E4nZpBsMBI-22" value="更新账户策略" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="4lDjWUcHd0E4nZpBsMBI-14">
           <mxGeometry x="-0.1427" y="3" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="-5" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="4lDjWUcHd0E4nZpBsMBI-5" value="广告策略" style="whiteSpace=wrap;html=1;rounded=1;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
