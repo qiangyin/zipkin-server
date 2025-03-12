@@ -179,8 +179,8 @@
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--31" value="内存中维护账务ID和对应通知时间" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1104" y="734" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bRiPWG7i6BMq6-Eh8w5--44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;变更通知流程&lt;/h1&gt;&lt;p&gt;为了减少账务数据库和第三方服务通知压力，通知账务服务采用采样通知，5秒钟以内同一个账号仅通知一次&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="165" y="595" width="420" height="95" as="geometry" />
+        <mxCell id="bRiPWG7i6BMq6-Eh8w5--44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;变更通知流程&lt;/h1&gt;&lt;p&gt;为了减少账务数据库和第三方服务通知压力，账务服务采用采样通知，5秒钟以内同一个账号仅通知一次&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="165" y="591" width="420" height="95" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
