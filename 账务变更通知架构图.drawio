@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/132.0.0.0 Safari/537.36" version="26.1.0">
   <diagram name="第 1 页" id="F6PljOLyG9azyLXPhSDL">
-    <mxGraphModel dx="1434" dy="761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1912" dy="1015" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,10 +189,10 @@
           <mxGeometry x="157" y="1222" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--50" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;" parent="1" vertex="1">
-          <mxGeometry x="1086" y="1219" width="340" height="252" as="geometry" />
+          <mxGeometry x="1137" y="1219" width="340" height="252" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--51" value="&lt;font color=&quot;#000000&quot;&gt;账务侧&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DEDEDE;strokeColor=#DEDEDE;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1086" y="1219" width="40" height="20" as="geometry" />
+          <mxGeometry x="1137" y="1219" width="40" height="20" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;curved=1;endArrow=classic;endFill=1;startArrow=classic;startFill=1;" parent="1" source="bRiPWG7i6BMq6-Eh8w5--52" target="bRiPWG7i6BMq6-Eh8w5--56" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -226,19 +226,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--55" value="批量接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1222.5" y="1249" width="82" height="40" as="geometry" />
+          <mxGeometry x="1273.5" y="1249" width="82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--56" value="单次接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1222.5" y="1325" width="82" height="40" as="geometry" />
+          <mxGeometry x="1273.5" y="1325" width="82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="bRiPWG7i6BMq6-Eh8w5--59" target="bRiPWG7i6BMq6-Eh8w5--54" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--59" value="通知模块" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1222.5" y="1409" width="82" height="40" as="geometry" />
+          <mxGeometry x="1273.5" y="1409" width="82" height="40" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--66" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;fillColor=#FF3333;fontColor=#ffffff;strokeColor=#6F0000;" parent="1" vertex="1">
-          <mxGeometry x="798.6399999999999" y="1286.6" width="35.28" height="35" as="geometry" />
+          <mxGeometry x="811.6399999999999" y="1292.6" width="35.28" height="35" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--72" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;业务侧调整&lt;/h1&gt;&lt;p&gt;&lt;/p&gt;&lt;ol&gt;&lt;li&gt;提供通知服务接口，格式&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AccountStatus和&lt;/span&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;AccDayBudget组合&lt;/span&gt;&lt;/li&gt;&lt;li&gt;&lt;span style=&quot;background-color: rgb(255, 255, 255); font-family: &amp;quot;JetBrains Mono&amp;quot;, monospace; font-size: 9.8pt; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;兜底补足批量查询接口换做单次接口(账务服务仍然有获取链接耗时高问题)&lt;/span&gt;&lt;/li&gt;&lt;/ol&gt;&lt;p&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="157" y="1090" width="493" height="121" as="geometry" />
