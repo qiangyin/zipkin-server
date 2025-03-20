@@ -76,14 +76,19 @@
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" parent="1" source="Rp6ea-_ialCVZ0uuq4UE-27" target="Rp6ea-_ialCVZ0uuq4UE-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="vvVfT5waRp4Ro9vgC6uj-8" value="&lt;span style=&quot;font-size: 12px; text-align: left; text-wrap-mode: wrap; background-color: rgb(251, 251, 251);&quot;&gt;5秒钟以内同一个账号仅通知一次&lt;/span&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=0;" vertex="1" connectable="0" parent="Rp6ea-_ialCVZ0uuq4UE-34">
+          <mxGeometry x="-0.1374" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-27" value="HTTP推送第三方接口" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="708" y="267.25" width="120" height="47.5" as="geometry" />
+          <mxGeometry x="708" y="273.25" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="vvVfT5waRp4Ro9vgC6uj-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="Rp6ea-_ialCVZ0uuq4UE-32" target="vvVfT5waRp4Ro9vgC6uj-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-32" value="第三方HTTP服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="267.25" width="120" height="47.5" as="geometry" />
+          <mxGeometry x="1090" y="273.25" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;三方服务&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DEDEDE;strokeColor=#DEDEDE;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="1060" y="90" width="50" height="20" as="geometry" />
