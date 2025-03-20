@@ -8,13 +8,13 @@
           <mxGeometry x="685" y="396" width="175" height="110" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-31" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="90" width="180" height="410" as="geometry" />
+          <mxGeometry x="1286" y="90" width="180" height="410" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-16" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#fff2cc;strokeColor=#d6b656;" parent="1" vertex="1">
           <mxGeometry x="685" y="81" width="175" height="310" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-14" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=1 4;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" parent="1" vertex="1">
-          <mxGeometry x="170" y="90" width="180" height="410" as="geometry" />
+          <mxGeometry x="170" y="90" width="180" height="420" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-1" value="account表" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
           <mxGeometry x="200" y="120" width="120" height="60" as="geometry" />
@@ -88,10 +88,10 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-32" value="第三方HTTP服务" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1090" y="273.25" width="120" height="47.5" as="geometry" />
+          <mxGeometry x="1316" y="273.25" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-36" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;三方服务&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DEDEDE;strokeColor=#DEDEDE;fontColor=#333333;" parent="1" vertex="1">
-          <mxGeometry x="1060" y="90" width="50" height="20" as="geometry" />
+          <mxGeometry x="1286" y="90" width="50" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rp6ea-_ialCVZ0uuq4UE-37" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;数据库表&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DEDEDE;strokeColor=#DEDEDE;fontColor=#333333;" parent="1" vertex="1">
           <mxGeometry x="170" y="89" width="50" height="20" as="geometry" />
@@ -123,7 +123,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--23" value="内存判断账务ID是否有上次通知记录" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="608" y="783" width="100" height="100" as="geometry" />
+          <mxGeometry x="590" y="783" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--26" value="结束" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1358" y="803" width="120" height="60" as="geometry" />
@@ -140,19 +140,19 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--27" value="判断上次通知时间是否5秒以内" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="602" y="951" width="110" height="110" as="geometry" />
+          <mxGeometry x="585" y="951" width="110" height="110" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="bRiPWG7i6BMq6-Eh8w5--28" target="bRiPWG7i6BMq6-Eh8w5--31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--28" value="HTTP推送三方接口" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="832" y="803" width="120" height="60" as="geometry" />
+          <mxGeometry x="790" y="803" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="bRiPWG7i6BMq6-Eh8w5--37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="bRiPWG7i6BMq6-Eh8w5--31" target="bRiPWG7i6BMq6-Eh8w5--26" edge="1">
+        <mxCell id="vvVfT5waRp4Ro9vgC6uj-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="bRiPWG7i6BMq6-Eh8w5--31" target="vvVfT5waRp4Ro9vgC6uj-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="bRiPWG7i6BMq6-Eh8w5--31" value="内存中维护账务ID和对应通知时间" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1104" y="803" width="120" height="60" as="geometry" />
+        <mxCell id="bRiPWG7i6BMq6-Eh8w5--31" value="获取变化的账务ID" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="993" y="803" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="bRiPWG7i6BMq6-Eh8w5--44" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;订阅通知流程&lt;/h1&gt;&lt;p&gt;为了减少账务数据库和第三方服务通知压力，账务服务采用采样通知，5秒钟以内同一个账号仅通知一次，平台侧可配置时间&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="165" y="659" width="420" height="95" as="geometry" />
@@ -161,7 +161,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vvVfT5waRp4Ro9vgC6uj-1" value="Dubbo服务" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1090" y="427" width="120" height="47.5" as="geometry" />
+          <mxGeometry x="1316" y="427" width="120" height="47.5" as="geometry" />
         </mxCell>
         <mxCell id="vvVfT5waRp4Ro9vgC6uj-4" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;account-boss&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fillColor=#DEDEDE;strokeColor=#DEDEDE;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="685" y="396" width="75" height="21" as="geometry" />
@@ -169,8 +169,14 @@
         <mxCell id="vvVfT5waRp4Ro9vgC6uj-6" value="余额，限额，计划限额" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="707" y="427.25" width="123" height="48.75" as="geometry" />
         </mxCell>
-        <mxCell id="vvVfT5waRp4Ro9vgC6uj-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;为什么还要通过Dubbo服务再回调查询？&lt;/h1&gt;&lt;p&gt;目前账务侧没有存部门业务侧需要通知的相关数据，主动全量通知会有信息遗漏不能直接使用&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="vvVfT5waRp4Ro9vgC6uj-10" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;为什么还要通过Dubbo再回调查询？&lt;/h1&gt;&lt;p&gt;目前账务侧没有存部门业务侧需要通知的相关数据，主动全量通知会有信息遗漏不能直接使用&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="685" y="520" width="565" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vvVfT5waRp4Ro9vgC6uj-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="vvVfT5waRp4Ro9vgC6uj-11" target="bRiPWG7i6BMq6-Eh8w5--26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="vvVfT5waRp4Ro9vgC6uj-11" value="查询余额，限额，计划限额" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1189" y="804" width="120" height="57" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
